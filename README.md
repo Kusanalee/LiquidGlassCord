@@ -1,12 +1,10 @@
 # Liquid Glasscord — Vencord Edition
 
-![Liquid Glasscord Logo] <img width="998" height="447" alt="SCR-20251118-mmjm" src="https://github.com/user-attachments/assets/3e5fcf16-65cd-4dae-a959-fb3a55ba2c04" />
-
-)  
+ <img width="998" height="447" alt="SCR-20251118-mmjm" src="https://github.com/user-attachments/assets/3e5fcf16-65cd-4dae-a959-fb3a55ba2c04" />
 
 
 **Version:** 9.3  
-**Author:** Kusanaliee  
+**Author:** Kusanalee  
 **Base Engine:** Translucence (by CapnKitten)  
 **Type:** Vencord Theme (works with Vencord & OpenAsar)
 
