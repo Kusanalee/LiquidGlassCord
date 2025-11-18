@@ -29,7 +29,7 @@ This is the exact same visual masterpiece as the BetterDiscord version — now p
 2. Open Discord → Settings → **Vencord** → **Themes**
 3. Click **“Open Themes Folder”**
 4. Download the theme file and drop it in:  
-   → [LiquidGlasscord.theme.css][(https://raw.githubusercontent.com/kusanaliee/liquid-glasscord-vencord/main/LiquidGlasscord.theme.css)](https://raw.githubusercontent.com/Kusanalee/LiquidGlassCord/refs/heads/main/LiquidGlassCord.css)
+   → (https://raw.githubusercontent.com/Kusanalee/LiquidGlassCord/refs/heads/main/LiquidGlassCord.css)
 5. Back in Vencord settings → enable **Liquid Glasscord**
 
 That’s it — no extra steps, no Translucence plugin needed (it’s imported directly).
